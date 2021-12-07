@@ -8,7 +8,7 @@
 - 💬 Ask me about **Rails, Javascript, Ruby,**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> ** https://www.linkedin.com/in/joonas-villanen-827207177/ **
+<p align="left">  https://www.linkedin.com/in/joonas-villanen-827207177/ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
