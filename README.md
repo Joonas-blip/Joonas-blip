@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Joonas</h1>
-<h3 align="center">An aspiring full-stack developer</h3>
-
-- 🔭 I’m currently working on **personal projects to improve my coding skills.**
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **Rails, Javascript, Ruby, Data-projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  https://www.linkedin.com/in/joonas-villanen-827207177/ 
